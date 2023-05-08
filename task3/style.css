@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+a{
+    text-decoration: none;
+}
+
+
+.one{
+ 
+    background-image: url(photo/home-bg\ 2.jpg);
+    text-align: center;
+    padding: 13rem 0;
+    background-position: center;
+    background-size: cover;
+    font-size: 1,25rem;
+   
+}
+.one h1{
+    color: #fff;
+    font-size: 90px;
+    margin: 0px 0px 8px;
+
+}
+.one span {
+    color: #fff;
+    font-size: 24px;
+    margin: 10px 0px 0px;
+}
+.all h2{
+    color: #212529;
+    font-size: 40px;
+    margin: 30px 0px 10px ;
+}
+.all h3{
+    color: #212529;
+    font-size: 28px;
+    font-weight: 300;
+    margin: 0px 0px 10px;
+}
+.all p{
+    font-style: italic;
+    color: #6c757d;
+    font-size: 1.125rem;
+    margin: 1rem 0;
+}
+
+.last a{
+    color: #fff;
+    padding: 15px 22px 17px 40px;
+    background-color: #0085A1;
+    font-size: 20px;
+    
+}
+.all{
+    width: 48%;
+    margin: 4rem auto;
+    
+}
+.end p{
+   
+    font-style: italic;
+    color: #6c757d;
+    font-size: 1.160rem;
+    width: 40%;
+    margin: 4rem auto;
+    text-align: center;
+    
+}
+hr{
+    opacity: 0.3;
+}
+
+
+     
+
