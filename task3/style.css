@@ -46,7 +46,10 @@ a{
     font-size: 1.125rem;
     margin: 1rem 0;
 }
-
+.last{
+    margin-top: 50px;
+    text-align: right;
+}
 .last a{
     color: #fff;
     padding: 15px 22px 17px 40px;
@@ -73,6 +76,8 @@ hr{
     opacity: 0.3;
 }
 
+
+     
 
      
 
